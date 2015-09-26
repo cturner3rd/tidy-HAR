@@ -27,5 +27,5 @@ Create a vector of column numbers of the 66 mean/std measurements.
 Aggregate the data by subject and activity for all 66 measurements, and calculate the mean. Sort by subject and activity.  
 Melt the data into tidyData  
 ## Addtional section
-Read and write functions for the tidy.csv file
+Read and write functions for the tidy.csv file  
 viewTidyData <- read.csv("https://github.com/cturner3rd/tidy-HAR/blob/master/tidy.csv",header=TRUE)
