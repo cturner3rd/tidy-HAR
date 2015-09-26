@@ -1,5 +1,6 @@
 # Introduction
-Analysis of Human Activity Recognition / Smartphone data set. This is the final project for Coursera course "Getting and Cleaning Data." The data are available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+Analysis of Human Activity Recognition / Smartphone data set. This is the final project for Coursera course "Getting and Cleaning Data." A description of the project is here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
+The data are located here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 ## Description of the run_analysis.R file
 The code is broken into 5 sections as described in the assignment:
 
