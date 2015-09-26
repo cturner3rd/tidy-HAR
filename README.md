@@ -28,3 +28,4 @@ Aggregate the data by subject and activity for all 66 measurements, and calculat
 Melt the data into tidyData  
 ## Addtional section
 Read and write functions for the tidy.csv file
+viewTidyData <- read.csv("https://github.com/cturner3rd/tidy-HAR/blob/master/tidy.csv",header=TRUE)
